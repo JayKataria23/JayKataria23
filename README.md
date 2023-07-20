@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jaykataria2004@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1qm_qYMmdxEWHULwhhM93Eimk-28s6oDbIWZMUoaIB3s/edit?usp=sharing](https://docs.google.com/document/d/1qm_qYMmdxEWHULwhhM93Eimk-28s6oDbIWZMUoaIB3s/edit?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://docs.google.com/document/d/1qm_qYMmdxEWHULwhhM93Eimk-28s6oDbIWZMUoaIB3s/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
