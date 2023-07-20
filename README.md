@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for Guidance in getting skilled in **React Native**
 
-- 👨‍💻 Here is the latest App i created [https://expo.dev/artifacts/eas/kAimFreR16voAfwj9NSir7.apk](https://expo.dev/artifacts/eas/kAimFreR16voAfwj9NSir7.apk)
+- 👨‍💻 Here is the latest App i created [Notes App with Async Storage](https://expo.dev/artifacts/eas/kAimFreR16voAfwj9NSir7.apk)
 
 - 💬 Ask me about **React Native, Python, Podcasts**
 
